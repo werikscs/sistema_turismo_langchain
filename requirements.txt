@@ -32,6 +32,7 @@ importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattl
 ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1754352855579/work
 ipython @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_ipython_1756474504/work
 ipython_pygments_lexers @ file:///home/conda/feedstock_root/build_artifacts/ipython_pygments_lexers_1737123620466/work
+ipywidgets==8.1.7
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1733300866624/work
 Jinja2==3.1.6
 jiter==0.11.0
@@ -40,10 +41,12 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1733440914442/work
 jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1748333051527/work
+jupyterlab_widgets==3.0.15
 langchain==0.3.27
 langchain-community==0.3.29
 langchain-core==0.3.76
 langchain-groq==0.3.8
+langchain-huggingface==0.3.1
 langchain-openai==0.3.33
 langchain-pinecone==0.2.12
 langchain-text-splitters==0.3.11
@@ -126,6 +129,7 @@ typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattle
 urllib3==2.5.0
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1733231326287/work
 wheel==0.45.1
+widgetsnbextension==4.0.14
 yarl==1.20.1
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
 zstandard==0.25.0
